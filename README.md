@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @chtx
-- 🌱 I’m currently learning JavaScript
-
+- 🌱 I’m currently learning Golang
 
 <!---
 chtx/chtx is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
